@@ -1,0 +1,19 @@
+{
+  "adminUsers": {
+    "gustavson_7": true,
+    "LUKASINO2288": false,
+    "theHonza13": false
+  },
+  "basics": {
+    "anticheatEnabled": false
+  },
+  "secrets": {
+    "sKey": {
+      "enabled": false,
+      "key": "notImplemented",
+      "keyAdress": "notImplemented",
+      "placeId": "notImplemented"
+    }
+  },
+  "version": "1.1.13",
+}
