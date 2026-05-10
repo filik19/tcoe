@@ -2,9 +2,9 @@
   "include": "1.6.5, 1.6.3, 1.6.2",
   "1.6.5": {
     "releaseDate": "??-05-26",
-    "publishedBy": "none",
+    "publishedBy": "gustavson_7",
     "title": "none",
-    "changes": "none"
+    "changes": "-updatelog in game\n- changed to public repository with the config and updatelog"
   },
   "1.6.3": {
     "releaseDate": "06-05-26",
