@@ -1,5 +1,11 @@
 {
-  "include": "1.6.5, 1.6.3, 1.6.2",
+  "include": "1.6.6, 1.6.5, 1.6.3",
+  "1.6.6": {
+    "releaseDate": "11-05-26",
+    "publishedBy": "gustavson_7",
+    "title": "none",
+    "changes": "- Fixed UpdateLog gui"
+  },
   "1.6.5": {
     "releaseDate": "10-05-26",
     "publishedBy": "gustavson_7",
@@ -8,14 +14,14 @@
   },
   "1.6.3": {
     "releaseDate": "06-05-26",
-    "publishedBy": "experienceOwner",
+    "publishedBy": "",
     "title": "DEV UPDATE",
     "changes": "hiddenUpdates\n- SecretPlace\n- SecretDoor\nDev Updates\n- Added updatelog.json"
   },
   "1.6.2": {
     "releaseDate": "06-05-26",
-    "publishedBy": "experienceOwner",
-    "title": "",
+    "publishedBy": "",
+    "title": "none",
     "changes": "- Added admin join messages to chat\n- Changed conf.json a bit\n- Added Street names and House numbers for houses"
   }
 }
